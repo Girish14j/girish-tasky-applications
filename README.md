@@ -1,0 +1,1 @@
+tasky applications is based on calculator calculations
